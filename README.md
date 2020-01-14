@@ -1,3 +1,3 @@
 # README #
 
-This is a readme file.
+I am currently working through a tutorial on git and GitHub.  This is the repository I am using for practice.
